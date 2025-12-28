@@ -7,5 +7,5 @@
     { "id": 4, "file": "4.mp4", "url": "http://yourdomain.com/ads/videos/4.mp4", "checksum": "v1" },
     { "id": 5, "file": "5.mp4", "url": "http://yourdomain.com/ads/videos/5.mp4", "checksum": "v1" }
   ],
-  "play_sequence": [4,5]
+  "play_sequence": [1,2,3,4,5]
 }
