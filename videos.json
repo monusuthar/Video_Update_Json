@@ -1,5 +1,5 @@
 {
-  "version": 8,
+  "version": 9,
   "ads": [
     { "id": 1, "file": "1.mp4", "url": "http://yourdomain.com/ads/videos/1.mp4", "checksum": "v1" },
     { "id": 2, "file": "2.mp4", "url": "http://yourdomain.com/ads/videos/2.mp4", "checksum": "v1" },
